@@ -1,4 +1,4 @@
-import java.awt.HeadlessException;
+import java. awt.HeadlessException;
 
 import javax.swing.JFrame;
 
@@ -37,8 +37,6 @@ import javax.swing.JFrame;
 			ekran.add(oyun);
 			
 			ekran.setVisible(true);
-			
-			
 			
 			
 	
